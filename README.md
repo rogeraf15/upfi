@@ -26,6 +26,7 @@
 
 
 ## :ledger: About
+Chalenge describe in [Notion](https://www.notion.so/Desafio-02-Upload-de-imagens-4cf1c3b1c1ad4a66961b6e48558cc3b8)
 It is an application for uploading images.With the following features:
 
 - List images
